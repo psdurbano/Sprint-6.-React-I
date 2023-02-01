@@ -4,6 +4,9 @@ function App() {
   return (
     <div>
       <Text />
+      <Text />
+      <Text />
+      <Text />
     </div>
   );
 }
