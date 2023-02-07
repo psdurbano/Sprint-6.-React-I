@@ -1,11 +1,24 @@
 import styled from "styled-components";
 
-export const Caja = styled.div`
+export const Box = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: white;
+  background-color: pink;
+  font-size: 0, 5em;
+  margin: 8px auto 8px auto;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 15px;
+  width: 95%;
+`;
+export const Coloredbox = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
   font-size: 0, 5em;
   margin: 8px auto 8px auto;
   padding: 5px;
