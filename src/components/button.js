@@ -5,7 +5,7 @@ export const Box = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: pink;
+  background-color: white;
   font-size: 0, 5em;
   margin: 8px auto 8px auto;
   padding: 5px;
